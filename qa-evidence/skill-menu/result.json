@@ -1,0 +1,16 @@
+[
+  {
+    "mode": "baseline",
+    "pointerEventsMenu": "none",
+    "pointerEventsAfterDeletion": "",
+    "otherSettingsControl": "Clicked",
+    "errors": []
+  },
+  {
+    "mode": "fixed",
+    "pointerEventsMenu": "",
+    "pointerEventsAfterDeletion": "",
+    "otherSettingsControl": "Clicked",
+    "errors": []
+  }
+]
